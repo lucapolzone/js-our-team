@@ -29,4 +29,5 @@ const team = [
     role: 'Graphic Designer',
     image: 'barbara-ramos-graphic-designer.jpg',
   },
+  
 ];
